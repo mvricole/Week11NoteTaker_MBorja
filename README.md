@@ -33,3 +33,7 @@ THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 ```
+
+## Sample Front End Image
+
+![image](https://user-images.githubusercontent.com/108310424/208276076-880debbb-66e5-4770-87bc-87b5750bb300.png)
